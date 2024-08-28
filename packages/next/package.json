@@ -47,7 +47,7 @@
     "dotenv": "~10.0.0",
     "fs-extra": "^10.1.0",
     "ignore": "^5.0.4",
-    "semver": "7.3.4",
+    "semver": "7.6.3",
     "ts-node": "10.9.1",
     "tsconfig-paths": "^3.9.0",
     "url-loader": "^4.1.1",
